@@ -12,3 +12,5 @@ Dog.prototype.eat=function(cat){
 Dog.prototype.sayHi=function(){
     Console.log('Say Hi')
 }
+
+module.exports=Dog
